@@ -1,0 +1,8 @@
+# Archivos generados por TypeScript
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# Excepto los .ts de configuración si los necesitas
+!tsconfig.json

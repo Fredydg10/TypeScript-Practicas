@@ -5,4 +5,6 @@
 *.d.ts.map
 
 # Excepto los .ts de configuración si los necesitas
-!tsconfig.json
+!tsconfig.jsonnode_modules/
+node_modules/
+package-lock.json
